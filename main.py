@@ -69,5 +69,5 @@ if __name__ == "__main__":
 
     test_data_path = sys.argv[1]
     output_model = sys.argv[2]
-# bindu aradhya janagani bj266
     predict_using_model(test_data_path, output_model)
+# bindu aradhya janagani bj266
